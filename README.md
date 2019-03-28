@@ -2,7 +2,7 @@
 
 Developed @ Academia de Código
 
-Created by the awesome Code Cadets:
+Created by the awesome Code Cadets:<br>
 Ana Sílvia Gonçalves<br>
 Lucas Bertoncin<br>
 Miguel Vicente<br>
